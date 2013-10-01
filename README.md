@@ -1,5 +1,4 @@
-
-If you want to add anything, feel free to send us a pull request or [ping us](https://twitter.com/nsspain) or [Luis](https://twitter.com/lascorbe) on Twitter.
+If you want to add anything, feel free to send us a **pull request** or [ping us](https://twitter.com/nsspain) or [Luis](https://twitter.com/lascorbe) on Twitter.
 
 
 ## Editions
