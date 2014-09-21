@@ -3,6 +3,7 @@ If you want to add anything, feel free to send us a **pull request** or [ping us
 
 ## Editions
 * [NSSpain 2013](https://github.com/NSSpain/NSSpain-Summaries/blob/master/2013.md)
+* [NSSpain 2014](https://github.com/NSSpain/NSSpain-Summaries/blob/master/2014.md)
 
 
 ## Credits
